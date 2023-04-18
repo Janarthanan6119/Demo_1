@@ -1,0 +1,64 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden; 
+    background-color: skyblue;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px; 
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: brown;
+  } 
+  .h1{
+    text-align: center;
+    background-color: antiquewhite;
+    height: 200px;
+  }
+  .second
+  {
+    width: auto;
+    height: 100px;
+    /* border-style:dotted ; */
+  }
+  .h_skills
+  {
+    text-align: center;
+  }
+  .contact,.profile,.bio,.proj
+  {
+    text-align: center;
+  }
+  .Resume
+  {
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.5px;
+    background: rgb(20, 255, 63) ;
+    color: black;
+    font-size: 1em;
+    border-radius: 2%;
+    cursor: pointer;
+    /* border-color: black; */
+    padding: 10px;
+    font-weight: 50;
+  }
+  .profile{
+    text-decoration: none;
+    letter-spacing: 0.5px;
+  }
+  #Skills
+  {
+    background-color: white;
+  }
